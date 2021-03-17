@@ -1,5 +1,5 @@
-In this notebook I created a linear regression model by using Ordinary Least Squares(OLS) for 2 variables: carats(diamond's weight) and price.
-Carats is put on the x-axis since it's the independent variable and price on the y-axis since it is the response.
+In this notebook I created a **linear regression model** by **using Ordinary Least Squares(OLS)** for 2 variables: **carats**(diamond's weight) and **price**.
+Carats is put on the _x-axis_ since it's the independent variable and price on the _y-axis_ since it is the response.
 
 I also created a scatterplot of the relationship between price and weight and the output from the regression model to arrive at the follwoing conclusions:
 <br />
